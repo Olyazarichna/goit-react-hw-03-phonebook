@@ -1,0 +1,20 @@
+.form {
+  margin-left: 20px;
+}
+.formInput {
+  margin-bottom: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 5px;
+}
+.btnForm {
+  background-color: rgb(6, 139, 6);
+  color: #fff;
+  padding: 10px 30px;
+  border: 1px solid #fff;
+}
+.btnForm:hover,
+.btnForm:focus {
+  cursor: pointer;
+  background-color: rgb(21, 217, 21);
+}
